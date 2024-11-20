@@ -1,0 +1,5 @@
+spring:
+  freemarker:
+    #defini diretorio de onde serão carregadas as templates
+    template-loader-path: classpath:/templates
+    suffix: ftl
